@@ -1,0 +1,11 @@
+# Game data never goes in this repository - not the original, not a patched copy.
+*.iso
+*.cso
+*.chd
+*.pbp
+EBOOT.BIN
+*.BIN
+# Release files are uploaded to GitHub Releases, not committed.
+*.xdelta
+*.zip
+.DS_Store
